@@ -37,5 +37,5 @@ sysinfo.txt
 
 # OSS
 
-Assets/UniRx.Async*
-Assets/Scripts/Utf8Json*
+UnityProject/Assets/UniRx.Async*
+UnityProject/Assets/Scripts/Utf8Json*
